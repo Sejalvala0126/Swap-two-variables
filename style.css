@@ -1,0 +1,52 @@
+body{
+    background: rgba(5, 191, 204, 0.3);
+}
+
+.main{
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+h2{
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(30, 78, 210);
+}
+
+#variable1{
+    font-size: 35px;
+    background-color: rgb(213, 240, 235);
+    color: sienna;
+}
+
+#variable2{
+    font-size: 35px;
+    background-color: rgb(213, 240, 235);
+    color: sienna;
+}
+
+.btn{
+    font-size: 35px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 150px;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    color: white;
+    background-color: rgb(100, 98, 98);
+}
+
+#beforeSwap{
+    color: rgba(94, 5, 129, 0.733);
+    text-align: center;
+    
+}
+
+#afterSwap{
+    color: rgb(2, 88, 67);
+    text-align: center;
+    
+}
